@@ -1,0 +1,52 @@
+
+#button{
+  height:20px;
+  width:60px;
+  margin-top: 30px;
+  background-color:#FFFF00;
+}
+
+#switchboard{
+  height: 400px;
+  width: 400px;
+  float: left;
+  display: inline-block;
+  background-color: RGB(255, 0, 0);
+  text-align :center;
+}
+
+.rows{
+  height: 80px;
+  width: 200px;
+  display: inline-block;
+  float : left;
+
+}
+
+
+#row1{
+  height: 20px;
+  width: 200px;
+  background-color: grey;
+}
+
+
+#row2{
+  height: 20px;
+  width: 200px;
+  background-color: black;
+}
+
+
+#row3{
+  height: 20px;
+  width: 200px;
+  background-color: grey;
+}
+
+
+#row4{
+  height: 20px;
+  width: 200px;
+  background-color: black;
+}

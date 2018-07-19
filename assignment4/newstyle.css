@@ -1,0 +1,41 @@
+.button{
+  background-color: yellow;
+  margin-top: 100px;
+  margin-bottom: auto;
+  margin-left: 150px;
+  margin-right: auto;
+  padding: 2px 20px;
+  font-weight: bold;
+}
+.switchboard{
+  width: 400px;
+  height: 400px;
+  background-color: red;
+  color: red;
+  float: left;
+}
+
+#status{
+  color:white;
+  font-weight: bold;
+  width: 360px;
+  height: 50px;
+  padding: 10px 20px;
+  text-align: center;
+}
+.rows{
+  height: 80px;
+  width: 200px;
+  display: inline-block;
+  float : left;
+
+}
+
+.row{
+  height: 20px;
+  width: 200px;
+}
+
+
+
+
